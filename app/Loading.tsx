@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import LOGO from "@/public/megaRabbitt.png";
-import { AnimatePresence, motion } from "motion/react";
+import { motion } from "motion/react";
 
 const Loading = () => {
   return (

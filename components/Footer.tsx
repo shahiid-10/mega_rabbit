@@ -42,7 +42,7 @@ const Footer = () => {
   );
 };
 
-const SpeechBubble = ({ text }: { text?: string }) => {
+const SpeechBubble = () => {
   return (
     <div className="relative max-w-sm">
       <div className="bg-white px-2 py-2 md:p-4 rounded-lg border border-black shadow-sm">
