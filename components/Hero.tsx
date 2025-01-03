@@ -23,7 +23,7 @@ const Hero = () => {
 
   return (
     <main className="" ref={scope}>
-      <div className=" absolute -z-[1]   -bottom-[2rem] flex justify-end items-center ">
+      <div className=" absolute -z-[1] bottom-0 flex justify-end items-center ">
         <div className="h-[200px]  w-[80vw] bg-slate-300 blur-3xl rounded-full relative"></div>
       </div>
       <div className="hidden md:block  absolute z-[-10000] overflow-hidden ">
